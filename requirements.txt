@@ -1,0 +1,8 @@
+streamlit==1.48.0
+pillow==10.4.0
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+gTTS==2.5.1
+numpy==2.3.2
+pandas==2.3.1
+altair==5.5.0
